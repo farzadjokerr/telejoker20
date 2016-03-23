@@ -234,7 +234,6 @@ function create_config( )
       "export_gban",
       "giverank",
       "id",
-      "addplug",
       "moderation",
       "plugins",
       "persian_lang",
